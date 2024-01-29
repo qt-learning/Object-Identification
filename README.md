@@ -4,7 +4,7 @@ This is the repo for the Squish Object Identification course on Qt Academy.
 
 ## Getting Started
 
-The files provided are the demo apps used within the test suites and provide reference for the workflows covered in the course section
+The files provided are the test suites and the demo apps used with the tests. They provide a reference for the workflows covered in the course section.
 
 ## Instructions
 
