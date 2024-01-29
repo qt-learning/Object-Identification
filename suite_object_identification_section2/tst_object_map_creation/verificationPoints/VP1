@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<VerificationPoint type="Table" version="4">
+    <Description/>
+    <Verification object="address_Book_Unnamed_File_QTableWidget">
+        <table hasText="1">
+            <row>
+                <cell>
+                    <text>Qt</text>
+                </cell>
+                <cell>
+                    <text>Company</text>
+                </cell>
+                <cell>
+                    <text>qt</text>
+                </cell>
+                <cell>
+                    <text>0000</text>
+                </cell>
+            </row>
+        </table>
+    </Verification>
+</VerificationPoint>
