@@ -24,6 +24,6 @@ def main():
     type(waitForObject(names.email_LineEdit), "<Tab>")
     type(waitForObject(names.phone_LineEdit), "0000")
     type(waitForObject(names.phone_LineEdit), "<Return>")
-    mouseClick(waitForObject(names.o1_HeaderViewItem), 14, 15, Qt.NoModifier, Qt.LeftButton)
+    mouseClick(waitForObject(names.o1_HeaderViewItem))
     clickButton(waitForObject(names.remove_QToolButton))
     clickButton(waitForObject(names.address_Book_Delete_Yes_QPushButton))
