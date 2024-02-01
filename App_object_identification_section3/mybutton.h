@@ -12,7 +12,7 @@ class MyButton : public QPushButton
 public:
     MyButton(QWidget *parent = nullptr);
     QString myText() const;
-    void setMyText(const QString &newMyText);
+    Q_INVOKABLE void setMyText(const QString &newMyText);
 
 public slots:
     void setMyButtonText(const QString &text);
