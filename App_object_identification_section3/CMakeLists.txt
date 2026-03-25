@@ -1,3 +1,6 @@
+# Copyright (C) 2026 Qt Group.
+# SPDX-License-Identifier: LicenseRef-Qt-Commercial OR BSD-3-Clause
+
 cmake_minimum_required(VERSION 3.5)
 
 project(App_object_identification_section3 VERSION 0.1 LANGUAGES CXX)

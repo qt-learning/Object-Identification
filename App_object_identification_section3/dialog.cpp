@@ -1,3 +1,6 @@
+// Copyright (C) 2026 Qt Group.
+// SPDX-License-Identifier: LicenseRef-Qt-Commercial OR BSD-3-Clause
+
 #include "dialog.h"
 
 Dialog::Dialog(QWidget *parent)
