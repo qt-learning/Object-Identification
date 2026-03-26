@@ -1,5 +1,5 @@
-// Copyright (C) 2026 Qt Group.
-// SPDX-License-Identifier: LicenseRef-Qt-Commercial OR GPL-3.0-only
+# Copyright (C) 2026 Qt Group.
+# SPDX-License-Identifier: LicenseRef-Qt-Commercial OR GPL-3.0-only
 
 cmake_minimum_required(VERSION 3.16)
 
@@ -17,7 +17,7 @@ qt_add_executable(MyApp
 qt_add_qml_module(MyApp
     URI App_object_identification_section6
     VERSION 1.0
-    QML_FILES main.qml 
+    QML_FILES main.qml
 )
 
 set_target_properties(MyApp PROPERTIES
